@@ -2,6 +2,7 @@ package com.epam.mjc.collections.list;
 
 import java.util.Comparator;
 import java.util.List;
+import java.util.*;
 
 public class ListSorter {
     public void sort(List<String> sourceList) {
